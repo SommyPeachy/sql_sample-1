@@ -1,1 +1,1 @@
-# sql_sample-1
+# sql_sample
